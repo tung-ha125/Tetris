@@ -10,7 +10,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9eac6071-12ae-46db-8845-fd790f224262" name="Changes" comment="First">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File exe/tetris_project.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tetris_project/File exe/SDL2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/File exe/SDL2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tetris_project/File exe/SDL2_image.dll" beforeDir="false" afterPath="$PROJECT_DIR$/File exe/SDL2_image.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tetris_project/File exe/SDL2_mixer.dll" beforeDir="false" afterPath="$PROJECT_DIR$/File exe/SDL2_mixer.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tetris_project/File exe/libFLAC-8.dll" beforeDir="false" afterPath="$PROJECT_DIR$/File exe/libFLAC-8.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tetris_project/File exe/libjpeg-9.dll" beforeDir="false" afterPath="$PROJECT_DIR$/File exe/libjpeg-9.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tetris_project/File exe/libmodplug-1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/File exe/libmodplug-1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tetris_project/File exe/libmpg123-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/File exe/libmpg123-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tetris_project/File exe/libogg-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/File exe/libogg-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tetris_project/File exe/libopus-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/File exe/libopus-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tetris_project/File exe/libopusfile-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/File exe/libopusfile-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tetris_project/File exe/libpng16-16.dll" beforeDir="false" afterPath="$PROJECT_DIR$/File exe/libpng16-16.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tetris_project/File exe/libtiff-5.dll" beforeDir="false" afterPath="$PROJECT_DIR$/File exe/libtiff-5.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tetris_project/File exe/libvorbis-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/File exe/libvorbis-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tetris_project/File exe/libvorbisfile-3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/File exe/libvorbisfile-3.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tetris_project/File exe/libwebp-7.dll" beforeDir="false" afterPath="$PROJECT_DIR$/File exe/libwebp-7.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tetris_project/File exe/zlib1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/File exe/zlib1.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +65,15 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="CMakeSettings" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\My PC\CLionProjects\Tetris\tetris_project\File exe" />
+      <recent name="C:\Users\My PC\CLionProjects\Tetris\tetris_project" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\My PC\CLionProjects\Tetris" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
@@ -70,7 +95,7 @@
       <workItem from="1653042922100" duration="53000" />
       <workItem from="1653042998521" duration="8000" />
       <workItem from="1653043078688" duration="719000" />
-      <workItem from="1653065545493" duration="1000" />
+      <workItem from="1653065545493" duration="350000" />
     </task>
     <task id="LOCAL-00001" summary="First">
       <created>1653043168003</created>
@@ -86,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653043301055</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="First">
+      <created>1653065582549</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1653065582549</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
