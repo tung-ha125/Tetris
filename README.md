@@ -5,12 +5,10 @@ Hà Sơn Tùng - MSV: 21020398
 ```
 
 ## *Cài đặt*
-### Tải project về 
 ```
-- Sử dụng Fork để fork về tài khoản github của mình.
-- Copy link github ở phần Code bên phải của project.
-- Sử dụng lệnh 'git clone [link git hub]'
-- Lấy file tetris_project và nên đặt trong path: C:\Users\My PC\CLionProjects\
+- Tải file .exe về 
+- Cài đặt mingw và dán các file .dll trong thư mục bin vào  "C:\Windows\System32" và file .dll trong File exe
+- Mở file .exe để chơi 
 ```
 ## *Mô tả trò chơi* 
 ### *1. Giới thiệu*
