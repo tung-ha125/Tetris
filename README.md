@@ -3,6 +3,15 @@
 Bài tập môn LTNC INT2215 1
 Hà Sơn Tùng - MSV: 21020398
 ```
+
+## *Cài đặt*
+### Tải project về 
+```
+- Sử dụng Fork để fork về tài khoản github của mình.
+- Copy link github ở phần Code bên phải của project.
+- Sử dụng lệnh 'git clone [link git hub]'
+- Lấy file tetris_project và nên đặt trong path: C:\Users\My PC\CLionProjects\
+```
 ## *Mô tả trò chơi* 
 ### *1. Giới thiệu*
 - Tetris là trò chơi xếp các khối gạch, người chơi sẽ cố gắng xếp đầy các viên gạch vào 1 hàng để xóa chúng đi.
