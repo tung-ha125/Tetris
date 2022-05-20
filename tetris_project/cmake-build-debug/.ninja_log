@@ -1,0 +1,21 @@
+# ninja log v5
+3300	3734	6746786953707139	tetris_project.exe	3fe5ed8a78219670
+6	3299	6746786949333155	CMakeFiles/tetris_project.dir/Tetris.cpp.obj	dfdd0d6f486372d2
+6	5789	6746760885714707	CMakeFiles/tetris_project.dir/main.cpp.obj	5ebf082050a6014
+5	1717	6746772307274206	CMakeFiles/tetris_project.dir/Game.cpp.obj	58daba54250ca35d
+4	995	6746771176024739	CMakeFiles/tetris_project.dir/common.cpp.obj	7543afe177473bb
+11	3006	6745898942868082	CMakeFiles/tetris_project.dir/Texture.cpp.obj	2d68074438a13b0b
+31	2941	6746757142043614	CMakeFiles/tetris_project.dir/Piece.cpp.obj	6090108db913b44a
+61	295	6745898915866231	CMakeFiles/tetris_project.dir/Tetrimino.cpp.obj	6f4c20b08bcbe94d
+75	3170	6745898945184468	CMakeFiles/tetris_project.dir/LButton.cpp.obj	6a3e84694af827b7
+5	1127	6746768195718939	CMakeFiles/tetris_project.dir/Tetris_menu.cpp.obj	2febc30f6a979b44
+35	1792	6747460666299805	CMakeFiles/tetris_project.dir/Tetrimino.cpp.obj	664fb92edf20f91a
+15	5915	6747460709765409	CMakeFiles/tetris_project.dir/common.cpp.obj	2f56dde9aaf8b5ec
+11	5980	6747460710224182	CMakeFiles/tetris_project.dir/Texture.cpp.obj	3a57fdd93722cc20
+58	5986	6747460710692931	CMakeFiles/tetris_project.dir/Tetris_menu.cpp.obj	132c6efbc681dc3
+30	5988	6747460710672986	CMakeFiles/tetris_project.dir/Piece.cpp.obj	a130285f82efb77e
+26	6021	6747460711111823	CMakeFiles/tetris_project.dir/Game.cpp.obj	893836cd13b4a803
+20	6231	6747460713166323	CMakeFiles/tetris_project.dir/Tetris.cpp.obj	4603cf337f14bace
+53	6304	6747460713969284	CMakeFiles/tetris_project.dir/LButton.cpp.obj	57b0a71307abe611
+5	12046	6747460771383752	CMakeFiles/tetris_project.dir/main.cpp.obj	f4c76aa7d0df83d0
+12046	12320	6747460774088706	tetris_project.exe	3fe5ed8a78219670
