@@ -60,6 +60,7 @@ Hà Sơn Tùng - MSV: 21020398
     Chỉnh level cho game khó hơn
     Có thể pause game, thoát game
     ```
+- Video demo: https://www.youtube.com/watch?v=U5UMr7ecd3o 
 ## *Các kỹ thuật sử dụng*
 - Render hình ảnh, phát âm thanh, quản lý chuột, bàn phím, thời gian (SDL)
 - Sử dụng class, pointer, random, mảng ...
