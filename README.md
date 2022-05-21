@@ -28,6 +28,11 @@ Hà Sơn Tùng - MSV: 21020398
 - Giữ 1 khối gạch để dùng sau: phím Enter
 
 ### *Hình ảnh minh họa*
+![Screenshot (261)](https://user-images.githubusercontent.com/96463130/169630764-3098010a-3fe5-441a-92f3-72c2f27b4af1.png)
+![In game](https://user-images.githubusercontent.com/96463130/169630847-7d535934-c3de-4bec-8a29-6fc295e295c9.png)
+
+### *Nguồn lấy ảnh và nhạc*
+- https://tetris.com/
 
 ## *Các chức năng đã cài đặt*
 - Logic game: 
